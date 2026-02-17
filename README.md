@@ -29,6 +29,8 @@ All tables, except the datetime table, were populated from the staging database,
 ![Data Generation Plan](https://github.com/Fahim0729/Supply-Chain-Analytics-Using-SQL-Inventory-Sales-Supplier-Insights/blob/9926429eb37e25222dc4a0924a6475671eb8c358/Data_Generation_Plan.png)
 
 ### 🔗 Database Diagram
+Every fact table connects to each of the three dimension tables.
+
 *The next figure presents the database diagram, illustrating the relationships between the fact table and the dimension tables.*
 
 ![Database Diagram](https://github.com/Fahim0729/Supply-Chain-Analytics-Using-SQL-Inventory-Sales-Supplier-Insights/blob/29b2e9fcb6568ae46ca4417bcb80b131f7e53269/Database_Diagram.png)
