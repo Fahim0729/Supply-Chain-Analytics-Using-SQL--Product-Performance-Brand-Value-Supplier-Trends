@@ -44,6 +44,9 @@ The questions have been solved using SQL queries, and the SQL functions applied 
 ### 📌 Q1. Brand Inventory Value Analysis
 **Identify brands with significant restocking activity (>50 units) in the second half of 2025 (July-December) and analyze their average shelf inventory value to optimize supply chain planning for next year.**
 
+![Q1](https://github.com/Fahim0729/Supply-Chain-Analytics-Using-SQL-Inventory-Sales-Supplier-Insights/blob/28f41ad3b6e538d1e7a947c404e91475f4f7f43f/Q1.png)
+
+
 🔹 SQL Functions: SUM(), AVG(), JOIN, BETWEEN, WHERE, GROUP BY, HAVING
 
 ### 📌 Q2. Product Sales Velocity
